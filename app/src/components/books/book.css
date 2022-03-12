@@ -1,0 +1,20 @@
+.space {
+  display: flex;
+}
+.margin {
+    border: 1px solid black;
+    width: max-content;
+    margin-top: 1rem;
+    margin-right: 0.5rem;
+}
+.dataCount {
+
+}
+.infoS {
+  float: right;
+}
+
+.container {
+  display: inline-grid;
+  margin-right: 28%;
+}
